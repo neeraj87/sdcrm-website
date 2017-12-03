@@ -414,3 +414,9 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+
+
+.gallery_product
+{
+    margin-bottom: 30px;
+}
